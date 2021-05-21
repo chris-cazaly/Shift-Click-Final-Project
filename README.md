@@ -12,6 +12,8 @@ Contain links to:
 	- your Codewars profile
 
 -An image carousel written in JavaScript which:
+
+
 	- works on both desktop and mobile
 	- is built into the webpage
 	- displays one image at a time
