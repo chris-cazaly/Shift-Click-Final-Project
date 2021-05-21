@@ -184,13 +184,19 @@ body{
 /* ================================= */
 
 @media (max-width: 600px){
-    .container-main-content, .container-images,
-    .image, .paragraph-bio{
-        border-radius: 0px;
-        border-color: white;
-
+    .container-main-content, .paragraph-bio,
+    .container-images{
+        border-width: 0px;
         width: 100%; 
     }
+
+    .container-images{
+        border-bottom-width: 0px;
+        width: 90%;
+        height: 90%;
+        margin-bottom: var(--default-padding);
+    }
+  
     .container-button-links{
         width: 80%;
     }
