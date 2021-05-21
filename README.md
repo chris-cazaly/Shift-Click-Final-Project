@@ -6,14 +6,13 @@ Final Project for "Coding for Beginners" Bootcamp by Shift Click - Chris Cazaly
 The website should include at minimum:
 
 - A personal statement telling us a little about yourself and your coding aspirations.
-Contain links to:
 
+- Contain links to:
 	- the GitHub repository containing the code for your webpage
 	- your FreeCodeCamp profile
 	- your Codewars profile
 
--An image carousel written in JavaScript which:
-
+- An image carousel written in JavaScript which:
 	- works on both desktop and mobile
 	- is built into the webpage
 	- displays one image at a time
