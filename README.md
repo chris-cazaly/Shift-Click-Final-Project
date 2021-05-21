@@ -1,6 +1,8 @@
 # Short Web Profile with Image Carousel
 Final Project for "Coding for Beginners" Bootcamp by Shift Click - Chris Cazaly
 
+<a href="https://chris-cazaly.github.io/Shift-Click-Final-Project/">View the Live Webpage here</a>
+
 // ------------------------------ The Project Brief ------------------------------ //
 
 The website should include at minimum:
