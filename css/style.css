@@ -3,7 +3,7 @@
     --dark-blue: #565676;
     --light-blue: #1091e4;
     --black-fade: rgba(0, 0, 0, 0.438);
-    --bright-orange: #FFC857;
+    --bright-orange: #fdb931;
 
     --default-padding: 25px;
 }
@@ -65,11 +65,15 @@ body{
     margin: var(--default-padding);
 }
 
-.paragraph-bio{
+p{
     width: 50ch;
     text-align: justify;
 
     margin: 35px;
+}
+
+.paragraph-bio-2{
+    margin-top: 0px;
 }
 
 /* --------- BUTTON LINKS --------- */
