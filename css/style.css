@@ -188,8 +188,10 @@ p{
 /* ================================= */
 
 @media (max-width: 600px){
-    .container-main-content, .paragraph-bio,
+    .container-main-content, p,
     .container-images{
+        /* Content-width scales with device-width                 */
+        /* for the bio-container, image-container, and paragraphs */
         border-width: 0px;
         width: 100%; 
     }
